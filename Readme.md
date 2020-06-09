@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
-* Студент: [Natalia Wiman](https://up.htmlacademy.ru/react/4/user/48181).
-* Наставник: `Неизвестно`.
+- Студент: [Natalia Wiman](https://up.htmlacademy.ru/react/4/user/48181).
+- Наставник: [Богдан Волик](https://htmlacademy.ru/profile/id997699).
 
 ---
 
