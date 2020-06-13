@@ -4,9 +4,9 @@ import PropTypes from "prop-types";
 const Main = ({title, genre, date, titlesList}) => {
 
   const TitlesList =
-    titlesList.map((item, index) => {
+    titlesList.map((item) => {
       return (
-        <article className="small-movie-card catalog__movies-card" key={index}>
+        <article className="small-movie-card catalog__movies-card" key={item}>
           <div className="small-movie-card__image">
             <img src="img/war-of-the-worlds.jpg" alt={item} width="280" height="175" />
           </div>
